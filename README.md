@@ -1,6 +1,6 @@
 ## Eu sou Rafael Domingues 
 
-- 🔭 Estudante SESI-Sorocaba/SENAI-SP
+- 🔭 Estudante SESI/SENAI
 - 📚 Estudando Python, Java, SupaBase
 - 📫 rafadominguesdev@gmail.com
 
