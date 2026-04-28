@@ -3,14 +3,6 @@
 - 🔭 Estudante SESI/SENAI
 - 📚 Estudando Python, Java, SupaBase
 - 📫 rafadominguesdev@gmail.com
-
-<div style="display: inline_block"><br>
-  <a href="https://beacons.ia/rafaeldominguesdev">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://camo.githubusercontent.com/f7a0bb20f41343e43b2e4cedb949c4786a60a5e9304569daf28fd5283458cca3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667">
-
-</div>
     
   ##
   
