@@ -15,5 +15,5 @@
  ##
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMXlnajNhcmFiaHQ3b2dtbDI5bzdyMHdqa2U1bXI5NGhzZjJ4ejhpbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pFuQkU1HWZ4khyVYFt/200w.gif" width="300"/>
+  <img src="https://media.tenor.com/OVyCRokpTAsAAAAM/lizard.gif" width="300"/>
 </p>
