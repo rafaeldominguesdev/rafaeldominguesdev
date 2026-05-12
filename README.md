@@ -15,5 +15,5 @@
  ##
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*vHi6UQcyvM8tT_Jf.gif" width="300"/>
+  <img src="hhttps://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" width="400"/>
 </p>
