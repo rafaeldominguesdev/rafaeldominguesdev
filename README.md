@@ -15,5 +15,5 @@
  ##
 
 <p align="center">
-  <img src="hhttps://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" width="400"/>
+  <img src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" width="400"/>
 </p>
