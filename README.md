@@ -27,5 +27,5 @@
  ##
 
 <p align="center">
-  <img src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" width="350"/>
+  <img src="https://imgs.search.brave.com/6GRtzG0msG15GROiOJYyk69W9w5pnTzHLW6cOTvOVpE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/UHNCMHgxTEhWYXNB/QUFBTS9nby1vbi1n/aXQtcmFuZHktbWFy/c2guZ2lm.gif" width="350"/>
 </p
