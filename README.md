@@ -24,5 +24,5 @@ Já fiz um museu em VR na Unity e participei do Grand Prix SENAI de Inovação, 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,swift,rust,py,java,cs,react,nextjs,tailwind,vite,tauri,nodejs,supabase,unity,git&perline=8&theme=dark" alt="TypeScript, JavaScript, Swift, Rust, Python, Java, C#, React, Next.js, Tailwind, Vite, Tauri, Node.js, Supabase, Unity, Git" />
+  <img src="https://skillicons.dev/icons?i=ts,java,react,supabase,unity,git&theme=dark" alt="TypeScript, Java, React, Supabase, Unity, Git" />
 </p>
