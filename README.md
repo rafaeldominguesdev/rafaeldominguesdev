@@ -50,26 +50,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,unity,git,github,vscode,figma&perline=7" alt="Ferramentas" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divisória" />
-
-## 📂 Projetos em destaque
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| ⏱️ [**AI Quota**](https://github.com/rafaeldominguesdev/AI-Quota) | App de barra de menu no macOS que mostra quanto da cota de Claude Code, Codex, Cursor e Grok já foi usada | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| 💬 [**Papinho**](https://github.com/rafaeldominguesdev/papinho) | Chat de desktop com todos os seus agentes de IA juntos, num app só | ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| 🗂️ [**PilotDeck**](https://github.com/rafaeldominguesdev/pilotdeck) | Quadro de tarefas self-hosted onde agentes de IA executam e você valida. MCP nativo | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ♟️ [**Chess Noir**](https://github.com/rafaeldominguesdev/chess-noir) | Analisador de partidas de xadrez com Stockfish, avaliação de lances e modos de treino | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ♿ [**Acessível Hub**](https://github.com/rafaeldominguesdev/acessivel-hub-hackthon) | Plataforma que orquestra ações de acessibilidade em grandes empresas (Grand Prix SENAI) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 🖼️ [**Semana de Arte Moderna**](https://github.com/rafaeldominguesdev/semana-da-arte-moderna) | Museu virtual para óculos VR, com fichas das obras ativadas pelo olhar | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white) |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divisória" />
-
-## 🔥 Sequência de commits
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafaeldominguesdev&theme=tokyonight&hide_border=true&ring=E11D48&fire=E11D48&currStreakLabel=E11D48&locale=pt_BR" alt="GitHub Streak" />
-</p>
+<br />
 
 <!-- Footer -->
 <p align="center">
