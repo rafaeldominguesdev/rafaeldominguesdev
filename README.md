@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="240" alt="" />
+<img src="assets/go-on-git.gif" align="right" width="220" alt="Randy Marsh: go on, git" />
 
 Oi, sou o Rafael. Programo mais em TypeScript, e quando precisa vou de Swift, Rust ou C#.
 
