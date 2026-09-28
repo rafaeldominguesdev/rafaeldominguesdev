@@ -1,58 +1,28 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7f1d1d,100:e11d48&height=200&section=header&text=Rafael%20Domingues&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Dev%20Full-Stack%20%E2%80%A2%20Apps%20com%20IA&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Rafael Domingues" />
-</p>
+<h1 align="center">Rafael Domingues</h1>
+
+<p align="center">dev full-stack</p>
 
 <p align="center">
-  <a href="https://github.com/rafaeldominguesdev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E11D48&center=true&vCenter=true&width=560&lines=Ol%C3%A1!+Eu+sou+o+Rafael+%F0%9F%91%8B;Dev+Full-Stack;Construindo+apps+com+agentes+de+IA+%F0%9F%A4%96;TypeScript+%E2%80%A2+Swift+%E2%80%A2+Rust+%E2%80%A2+C%23;Tauri+%2B+React+no+macOS+%F0%9F%8D%8E" alt="Typing SVG" />
-  </a>
+  <a href="https://www.linkedin.com/in/rafadomingues/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rafadominguesdev@gmail.com"><img src="https://img.shields.io/badge/rafadominguesdev@gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafadomingues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rafadominguesdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://github.com/rafaeldominguesdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rafaeldominguesdev&label=Visitas&color=e11d48&style=for-the-badge" alt="Visitas" />
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divisória" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="240" alt="" />
 
-## 👨‍💻 Sobre mim
+Oi, sou o Rafael. Programo mais em TypeScript, e quando precisa vou de Swift, Rust ou C#.
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="300" alt="Dev codando" />
+Ultimamente tô fazendo apps desktop pra trabalhar com agentes de IA (Claude, Codex, Grok), com Tauri + React e SwiftUI no macOS.
 
-- 🚀 Dev full-stack que gosta de transformar ideia em app de verdade
-- 🤖 Hoje focado em ferramentas que orquestram **agentes de IA** (Claude, Codex, Grok...)
-- 🖥️ Apps desktop com **Tauri + React**, nativos de macOS com **Swift/SwiftUI**
-- 🎮 Também brinco com **Unity** — já fiz um museu virtual em VR
-- 🏆 Participei do **Grand Prix SENAI de Inovação — Desafio Petrobras**
-- 📫 Fala comigo: **rafadominguesdev@gmail.com**
+Já fiz um museu em VR na Unity e participei do Grand Prix SENAI de Inovação, no desafio da Petrobras.
 
 <br clear="right" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divisória" />
+---
 
-## 🛠️ Linguagens & Ferramentas
+### Stack
 
-<p align="center"><b>Linguagens</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,swift,rust,py,java,cs&perline=7" alt="Linguagens" />
-</p>
-
-<p align="center"><b>Front-end & Desktop</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,tauri,html,css&perline=7" alt="Front-end" />
-</p>
-
-<p align="center"><b>Back-end, Games & Ferramentas</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,unity,git,github,vscode,figma&perline=7" alt="Ferramentas" />
-</p>
-
-<br />
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,50:7f1d1d,100:0d1117&height=120&section=footer" width="100%" alt="" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,swift,rust,py,java,cs,react,nextjs,tailwind,vite,tauri,nodejs,supabase,unity,git&perline=8&theme=dark" alt="TypeScript, JavaScript, Swift, Rust, Python, Java, C#, React, Next.js, Tailwind, Vite, Tauri, Node.js, Supabase, Unity, Git" />
 </p>
