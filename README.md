@@ -1,28 +1,26 @@
-<h1 align="center">Rafael Domingues</h1>
+# Eu sou Rafael Domingues
 
-<p align="center">dev full-stack</p>
+- 🔭 Estudante SESI/SENAI
+- 📚 Estudando Unity, Java, Supabase
+- 📫 rafadominguesdev@gmail.com
+
+##
+<img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+<img align="center" alt="Rafael-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="center" alt="Rafael-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+<img align="center" alt="Rafael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+<img align="center" alt="Rafael-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+
+##
+
+<div>
+  <a href="https://instagram.com/rafaelrfd1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:rafaelrfd18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rafael-domingues-4914b73b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+##
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafadomingues/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rafadominguesdev@gmail.com"><img src="https://img.shields.io/badge/rafadominguesdev@gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
-</p>
-
----
-
-<img src="assets/go-on-git.gif" align="right" width="220" alt="Randy Marsh: go on, git" />
-
-Oi, sou o Rafael. Programo mais em TypeScript, e quando precisa vou de Swift, Rust ou C#.
-
-Ultimamente tô fazendo apps desktop pra trabalhar com agentes de IA (Claude, Codex, Grok), com Tauri + React e SwiftUI no macOS.
-
-Já fiz um museu em VR na Unity e participei do Grand Prix SENAI de Inovação, no desafio da Petrobras.
-
-<br clear="right" />
-
----
-
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,java,react,supabase,unity,git&theme=dark" alt="TypeScript, Java, React, Supabase, Unity, Git" />
+  <img src="assets/go-on-git.gif" width="350" alt="Randy Marsh: go on, git" />
 </p>
