@@ -1,7 +1,7 @@
 # Eu sou Rafael Domingues
 
 - 🔭 Estudante SESI/SENAI
-- 📚 Estudando Unity, Java, Supabase
+- 📚 Estudando Unity, Java, TypeScript
 - 📫 rafadominguesdev@gmail.com
 
 ##
