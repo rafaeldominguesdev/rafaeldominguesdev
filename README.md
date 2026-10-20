@@ -1,11 +1,12 @@
 # Eu sou Rafael Domingues
 
 - 🔭 Estudante SESI/SENAI
+- 💻 Estudando programação e desenvolvendo projetos com Java, React, TypeScript, Flutter e Supabase.
 - 📫 rafadominguesdev@gmail.com
 
 ##
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,postgres,flutter,supabase,ts" alt="Java, Python, TypeScript, SQL, Flutter, SupaBase" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,supabase,ts" alt="Java,TypeScript, Flutter, SupaBase" />
 </p>
 
 ##
