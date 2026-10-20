@@ -6,7 +6,7 @@
 
 ##
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,ts,postgres,flutter" alt="Java, Python, TypeScript, SQL, Flutter, SupaBase" />
+  <img src="https://skillicons.dev/icons?i=java,py,ts,postgres,flutter,supabase" alt="Java, Python, TypeScript, SQL, Flutter, SupaBase" />
 </p>
 
 ##
