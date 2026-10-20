@@ -1,6 +1,6 @@
 # Eu sou Rafael Domingues
 
-- 🔭 Estudante SESI/SENAI
+- 🔭 Estudante SESI/SENAI.
 - 💻 Estudando programação e desenvolvendo projetos com Java, React, TypeScript, Flutter e Supabase.
 - 📫 rafadominguesdev@gmail.com
 
