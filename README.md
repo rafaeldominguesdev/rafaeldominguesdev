@@ -6,7 +6,7 @@
 
 ##
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,flutter,supabase,ts" alt="Java,TypeScript, Flutter, SupaBase" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,supabase,ts,n8n" alt="Java,TypeScript, Flutter, SupaBase" />
 </p>
 
 ##
