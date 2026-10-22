@@ -13,6 +13,7 @@
 
 <p align="center">
   <img src="https://davecurry.net/posts/creating-a-claude-desktop-buddy-with-clawd-gifs/clawd/busy_0.gif" width="350" alt="Randy Marsh: go on, git" />
+  <img width="96" height="65" alt="image" src="https://github.com/user-attachments/assets/b69b8ee0-adaf-4945-a055-2ff28741a852" />
 </p>
 
 ##
