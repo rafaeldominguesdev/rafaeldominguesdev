@@ -13,7 +13,6 @@
 
 <p align="center">
   <img src="https://davecurry.net/posts/creating-a-claude-desktop-buddy-with-clawd-gifs/clawd/busy_0.gif" width="250" alt="Randy Marsh: go on, git" />
-  <img src="https://davecurry.net/posts/creating-a-claude-desktop-buddy-with-clawd-gifs/clawd-315x225-alpha.gif" width="350" alt="Randy Marsh: go on, git" />
   
 </p>
 
