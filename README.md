@@ -12,7 +12,7 @@
 ##
 
 <p align="center">
-  <img src="assets/go-on-git.gif" width="350" alt="Randy Marsh: go on, git" />
+  <img src="https://davecurry.net/posts/creating-a-claude-desktop-buddy-with-clawd-gifs/clawd/busy_0.gif" width="350" alt="Randy Marsh: go on, git" />
 </p>
 
 ##
